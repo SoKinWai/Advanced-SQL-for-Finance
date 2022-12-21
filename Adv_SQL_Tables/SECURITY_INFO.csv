@@ -1,0 +1,106 @@
+START_DATE,END_DATE,CUSIP,INSTRUMENT_TYPE,DELISTED,TICKER,DESCRIPTION,SECTOR,COUNTRY
+20180102,20180306,C980362150,Equity,N,ADM,Archer-Daniels-Midland Co,Consumer Staples,NA
+20180102,20180601,C956810865,Equity,N,ATVI,Activision Blizzard,Information Technology,AD
+20180102,20180706,C823054248,Equity,N,AMZN,Amazon.com Inc.,Consumer Discretionary,GQ
+20180102,20181203,C842853862,Equity,N,ADSK,Autodesk Inc.,Information Technology,IT
+20180102,20190105,C285291663,Equity,N,ARE,Alexandria Real Estate Equities Inc,Real Estate,CM
+20180102,20190206,C850326527,Equity,N,COG,Cabot Oil & Gas,Energy,TO
+20180102,99991231,C491534729,Equity,N,MMM,3M Company,Industrials,AF
+20180102,99991231,C755456336,Equity,N,AOS,A.O. Smith Corp,Industrials,AX
+20180102,99991231,C207240619,Equity,N,ABT,Abbott Laboratories,Health Care,AL
+20180102,99991231,C704813496,Equity,N,ABBV,AbbVie Inc.,Health Care,DZ
+20180102,99991231,C309653244,Equity,N,ACN,Accenture plc,Information Technology,AS
+20180102,99991231,C317648987,Equity,N,AYI,Acuity Brands Inc,Industrials,AO
+20180102,99991231,C385264889,Equity,N,ADBE,Adobe Systems Inc,Information Technology,AI
+20180102,99991231,C956282871,Equity,Y,AAP,Advance Auto Parts,Consumer Discretionary,AQ
+20180102,99991231,C541596602,Equity,N,AMD,Advanced Micro Devices Inc,Information Technology,AG
+20180102,99991231,C417359878,Equity,N,AES,AES Corp,Utilities,AR
+20180102,99991231,C793685348,Equity,N,AET,Aetna Inc,Health Care,BR
+20180102,99991231,C501048147,Equity,N,AMG,Affiliated Managers Group Inc,Financials,CN
+20180102,99991231,C500289558,Equity,N,AFL,AFLAC Inc,Financials,CN
+20180102,99991231,C386947041,Equity,N,A,Agilent Technologies Inc,Health Care,BG
+20180102,99991231,C534956101,Equity,N,APD,Air Products & Chemicals Inc,Materials,BF
+20180102,99991231,C772969772,Equity,N,AKAM,Akamai Technologies Inc,Information Technology,BI
+20180102,99991231,C906008511,Equity,N,ALK,Alaska Air Group Inc,Industrials,CV
+20180102,99991231,C900255546,Equity,N,ALB,Albemarle Corp,Materials,KH
+20180102,99991231,C351197651,Equity,N,ALXN,Alexion Pharmaceuticals,Health Care,CA
+20180102,99991231,C458497274,Equity,N,ALGN,Align Technology,Health Care,EG
+20180102,99991231,C774787649,Equity,N,ALLE,Allegion,Industrials,NA
+20180102,99991231,C348312558,Equity,N,AGN,"Allergan, Plc",Health Care,DK
+20180102,99991231,C262865085,Equity,N,ADS,Alliance Data Systems,Information Technology,IT
+20180102,99991231,C175210911,Equity,N,LNT,Alliant Energy Corp,Utilities,IT
+20180102,99991231,C966634544,Equity,N,ALL,Allstate Corp,Financials,IT
+20180102,99991231,C402902400,Equity,N,GOOGL,Alphabet Inc Class A,Information Technology,KR
+20180102,99991231,C615991809,Equity,N,GOOG,Alphabet Inc Class C,Information Technology,EG
+20180102,99991231,C763405435,Equity,N,MO,Altria Group Inc,Consumer Staples,SV
+20180102,99991231,C925055856,Equity,N,AEE,Ameren Corp,Utilities,ER
+20180102,99991231,C298891492,Equity,N,AAL,American Airlines Group,Industrials,EE
+20180102,99991231,C667933999,Equity,N,AEP,American Electric Power,Utilities,SZ
+20180102,99991231,C182368642,Equity,N,AXP,American Express Co,Financials,ET
+20180102,99991231,C653124476,Equity,N,AIG,"American International Group, Inc.",Financials,FK
+20180102,99991231,C645474804,Equity,N,AMT,American Tower Corp A,Real Estate,FO
+20180102,99991231,C270807154,Equity,N,AWK,American Water Works Company Inc,Utilities,FJ
+20180102,99991231,C715608976,Equity,N,AMP,Ameriprise Financial,Financials,FI
+20180102,99991231,C627157732,Equity,N,ABC,AmerisourceBergen Corp,Health Care,FR
+20180102,99991231,C947476417,Equity,N,AME,AMETEK Inc.,Industrials,GF
+20180102,99991231,C192395511,Equity,N,AMGN,Amgen Inc.,Health Care,PF
+20180102,99991231,C551763107,Equity,N,APH,Amphenol Corp,Information Technology,TF
+20180102,99991231,C969254604,Equity,N,APC,Anadarko Petroleum Corp,Energy,NA
+20180102,99991231,C146500095,Equity,N,ADI,"Analog Devices, Inc.",Information Technology,NA
+20180102,99991231,C219753848,Equity,N,ANDV,Andeavor,Energy,GE
+20180102,99991231,C521914858,Equity,N,ANSS,ANSYS,Information Technology,DE
+20180102,99991231,C270931603,Equity,N,ANTM,Anthem Inc.,Health Care,GH
+20180102,99991231,C954078928,Equity,N,AON,Aon plc,Financials,GI
+20180102,99991231,C579623648,Equity,N,APA,Apache Corporation,Energy,GR
+20180102,99991231,C432342063,Equity,N,AIV,Apartment Investment & Management,Real Estate,GL
+20180102,99991231,C113609857,Equity,N,AAPL,Apple Inc.,Information Technology,GD
+20180102,99991231,C746067626,Equity,N,AMAT,Applied Materials Inc.,Information Technology,GP
+20180102,99991231,C457877394,Equity,N,APTV,Aptiv Plc,Consumer Discretionary,NA
+20180102,99991231,C168746412,Equity,N,ARNC,Arconic Inc.,Industrials,IQ
+20180102,99991231,C793833300,Equity,N,AJG,Arthur J. Gallagher & Co.,Financials,IE
+20180102,99991231,C588718138,Equity,N,AIZ,Assurant Inc.,Financials,IM
+20180102,99991231,C441864024,Equity,N,T,AT&T Inc.,Telecommunication Services,IL
+20180102,99991231,C859618923,Equity,N,ADP,Automatic Data Processing,Information Technology,JM
+20180102,99991231,C575312666,Equity,N,AZO,AutoZone Inc,Consumer Discretionary,JP
+20180102,99991231,C404954805,Equity,N,AVB,"AvalonBay Communities, Inc.",Real Estate,NA
+20180102,99991231,C690248719,Equity,N,AVY,Avery Dennison Corp,Materials,NA
+20180102,99991231,C747097309,Equity,N,BHGE,"Baker Hughes, a GE Company",Energy,KZ
+20180102,99991231,C246045880,Equity,N,BLL,Ball Corp,Materials,KE
+20180102,99991231,C497714900,Equity,N,BAC,Bank of America Corp,Financials,KI
+20180102,99991231,C856299965,Equity,N,BAX,Baxter International Inc.,Health Care,KP
+20180102,99991231,C291181338,Equity,N,BBT,BB&T Corporation,Financials,KR
+20180102,99991231,C811250293,Equity,N,BDX,Becton Dickinson,Health Care,KW
+20180102,99991231,C335954952,Equity,N,BRK.B,Berkshire Hathaway,Financials,KG
+20180102,99991231,C575310731,Equity,Y,BBY,Best Buy Co. Inc.,Consumer Discretionary,LA
+20180102,99991231,C654238957,Equity,N,BIIB,Biogen Inc.,Health Care,LV
+20180102,99991231,C877349282,Equity,N,BLK,BlackRock,Financials,LB
+20180102,99991231,C710231249,Equity,N,HRB,Block H&R,Financials,LS
+20180102,99991231,C936333253,Equity,N,BA,Boeing Company,Industrials,LR
+20180102,99991231,C216547584,Equity,N,BKNG,Booking Holdings Inc,Consumer Discretionary,LY
+20180102,99991231,C667656750,Equity,N,BWA,BorgWarner,Consumer Discretionary,LI
+20180102,99991231,C833889773,Equity,N,BXP,Boston Properties,Real Estate,LT
+20180102,99991231,C853829400,Equity,N,BSX,Boston Scientific,Health Care,LU
+20180102,99991231,C780779706,Equity,N,BHF,Brighthouse Financial Inc,Financials,MO
+20180102,99991231,C528162455,Equity,N,BMY,Bristol-Myers Squibb,Health Care,MK
+20180102,99991231,C242694825,Equity,N,AVGO,Broadcom,Information Technology,MG
+20180102,99991231,C288998471,Equity,N,BF.B,Brown-Forman Corp.,Consumer Staples,MW
+20180102,99991231,C898246678,Equity,N,CHRW,C. H. Robinson Worldwide,Industrials,MY
+20180102,99991231,C531620366,Equity,N,CA,"CA, Inc.",Information Technology,TK
+20180102,99991231,C306428091,Equity,N,CDNS,Cadence Design Systems,Information Technology,TT
+20180102,99991231,C581066816,Equity,N,CPB,Campbell Soup,Consumer Staples,GB
+20180102,99991231,C639711407,Equity,N,COF,Capital One Financial,Financials,GB
+20180102,99991231,C735399065,Equity,N,CAH,Cardinal Health Inc.,Health Care,NA
+20180102,99991231,C149922671,Equity,Y,KMX,Carmax Inc,Consumer Discretionary,NA
+20180102,99991231,C811348629,Equity,N,CCL,Carnival Corp.,Consumer Discretionary,GB
+20180102,99991231,C830334386,Equity,N,CAT,Caterpillar Inc.,Industrials,CN
+20180102,99991231,C856847326,Equity,N,CBOE,Cboe Global Markets,Financials,LU
+20180102,99991231,C560457637,Equity,N,CBRE,CBRE Group,Real Estate,KG
+20180102,99991231,C378155229,Equity,N,CBS,CBS Corp.,Consumer Discretionary,KG
+20180102,99991231,C428352047,Equity,N,CELG,Celgene Corp.,Health Care,KI
+20180102,99991231,C557551824,Equity,N,CNC,Centene Corporation,Health Care,NA
+20180307,99991231,C980362150,Equity,Y,ADM,Archer-Daniels-Midland Co,Consumer Staples,NA
+20180602,99991231,C956810865,Equity,N,ATVI,Activision Blizzard Inc,Information Technology,AD
+20180707,99991231,C823054248,Equity,N,AMZN,Amazon.com Inc.,Information Technology,GQ
+20181204,99991231,C842853862,Equity,N,ADSK,Autodesk Inc.,Information Technology,NA
+20190106,99991231,C285291663,Equity,N,ARE,Alexandria Real Estate Equities Inc,Real Estate,GQ
+20190207,99991231,C850326527,Equity,N,COAG,Cabot Oil & Gas,Energy,TO
